@@ -30,6 +30,7 @@ Jumlah prediksi salah	: 18
 Akurasi pengujian	: 92.13973799126637 %
 
 Confusion matrix:
+
  [[106   1   1]
  
  [  6  64   1]
@@ -37,12 +38,12 @@ Confusion matrix:
  [  6   3  41]]
 
  Classification report:
+ 
                precision    recall  f1-score   support
 
            0       0.90      0.98      0.94       108
            1       0.94      0.90      0.92        71
            2       0.95      0.82      0.88        50
-
     accuracy                           0.92       229
     
    macro avg       0.93      0.90      0.91       229
